@@ -1,0 +1,36 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   html_prac/01_intro/Intro_To_HTML_colt/.DS_Store
+#	new file:   html_prac/01_intro/Intro_To_HTML_colt/about.html
+#	new file:   html_prac/01_intro/Intro_To_HTML_colt/chickens.html
+#	new file:   html_prac/01_intro/Intro_To_HTML_colt/pictures/.DS_Store
+#	new file:   html_prac/01_intro/Intro_To_HTML_colt/pictures/stevie_chicks.jpg
+#	new file:   html_prac/01_intro/Intro_To_HTML_colt/topics_covered.txt
+#	new file:   html_prac/01_intro/html_essentials/01.paragraph elements/paragraphs.html
+t #	new file:   html_prac/01_intro/html_essentials/02.headings_h1_h2/headings.html
+#	new file:   html_prac/01_intro/html_essentials/02.headings_h1_h2/headings_level.html
+#	new file:   html_prac/01_intro/html_essentials/03.lists/lists.html
+#	new file:   html_prac/01_intro/html_essentials/04.hyperlinks/internal_hyperlinks.html
+#	new file:   html_prac/01_intro/html_essentials/05.img tag/pictures.html
+#	new file:   html_prac/01_intro/html_essentials/first_basic_html_page/about.html
+#	new file:   html_prac/01_intro/html_essentials/first_basic_html_page/images/cute_cat_1.jpg
+#	new file:   html_prac/01_intro/html_essentials/first_basic_html_page/images/cute_cat_2.png
+#	new file:   html_prac/01_intro/html_essentials/first_basic_html_page/images/favicon-16x16.png
+#	new file:   html_prac/01_intro/html_essentials/first_basic_html_page/images/favicon-32x32.png
+#	new file:   html_prac/01_intro/html_essentials/first_basic_html_page/images/favicon.ico
+#	new file:   html_prac/01_intro/html_essentials/first_basic_html_page/index.html
+#	new file:   html_prac/02_semantic_markup/01.block_inline/block_inline.html
+#	new file:   html_prac/02_semantic_markup/01.block_inline/cat_pic.jpg
+#	new file:   html_prac/02_semantic_markup/01.span_div/span_div.html
+#	new file:   html_prac/02_semantic_markup/02.odd_assort_hr_br_sup_sub/hr_sup_sub.html
+#	new file:   html_prac/02_semantic_markup/03.Semantic_markup/article_section_use.html
+#	new file:   html_prac/02_semantic_markup/03.Semantic_markup/html_article_tag.html
+#	new file:   html_prac/02_semantic_markup/03.Semantic_markup/main_footer_header_explained.html
+#	new file:   html_prac/forms_and_tables/checkbox_radio.html
+#	new file:   html_prac/forms_and_tables/forms.html
+#	new file:   html_prac/forms_and_tables/table.html
+#

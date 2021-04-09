@@ -1,0 +1,10 @@
+here we covered :
+
+html basics 
+h1 - h6
+<p>
+<a>
+<img>
+<ol>
+<li>
+
