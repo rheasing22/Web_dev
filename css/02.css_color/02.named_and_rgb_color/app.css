@@ -1,0 +1,21 @@
+/*
+named colors : here we have used cyan, dimgray 
+rgb: has 3 channels : R,G and B 
+    values ranging from 0-255
+*/
+
+h1{
+    color:teal;
+    background-color: rgb(104, 208, 76);
+}
+
+button{
+    color:magenta;
+    background-color: dimgray;
+}
+
+p{
+    color: olive;
+    background-color:rosybrown;
+}
+

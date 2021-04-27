@@ -1,0 +1,29 @@
+/*
+named colors : here we have used cyan, dimgray 
+rgb: has 3 channels : R,G and B 
+    values ranging from 0-255
+
+hex: values go from 0-F , F is 15 
+6 numbers , 3 pairs 
+#00 00 00 : R G B -> rep Black in hex 
+*/
+
+/* Change the color of the h1 text with a hex value*/
+
+h1{
+    color:#734CD0;
+    background-color: rgb(104, 208, 76);
+}
+
+button{
+    color:magenta;
+    background-color: dimgray;
+}
+
+p{
+    color: olive;
+    background-color:rosybrown;
+}
+
+
+

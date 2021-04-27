@@ -1,0 +1,21 @@
+/*all h2 is the document 
+color : changes the color of the text
+background-color: changes the bg color 
+background: change bg color,bg imag, bg gradient  
+*/
+
+h1{
+    color:teal;
+    background-color: cyan;
+}
+
+button{
+    color:magenta;
+    background-color: dimgray;
+}
+
+p{
+    color: olive;
+    background-color:rosybrown;
+}
+
